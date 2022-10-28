@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **flutter**
 
-- 💬 Ask me about **css , javaScript ,react ,python and django**
+- 💬 Ask me about ** python,django, javaScript ,react and css**
 
 - 📫 <h2>How to reach me</h2> **m_aliouche@estin.dz**
 
